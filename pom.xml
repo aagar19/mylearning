@@ -15,7 +15,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <spark.version>2.1.0</spark.version>
         <scala.binary.version>2.11</scala.binary.version>
-        <scala.version>2.11.8</scala.version>
+        <scala.version>2.13.1</scala.version>
         <commons.cli.version>1.4</commons.cli.version>
         <scalatest.version>3.0.5</scalatest.version>
         <junit.version>4.12</junit.version>
